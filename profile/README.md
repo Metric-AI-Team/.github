@@ -5,7 +5,7 @@
 <strong>Ulin Yuk</strong>
 
 # Team
-<img src="https://avatars.githubusercontent.com/u/105159796?s=400&u=e7cbe28bd04cca26e7930d0cddf1c19508f4fe68&v=4" width="100">
+<strong>Metric AI Team</strong>
 <br>
 <ul>
     <li>Ananda Jauhar Firdaus</li>
