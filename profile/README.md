@@ -1,12 +1,75 @@
-## Hi there 👋
+# Project
+<strong>Orbit Future Academy, AI Mastery Program</strong>
+<strong>Ulin Yuk</strong>
 
-<!--
+# Team
+<strong>Metric AI Team</strong>
+<br>
+<ul>
+    <li>Ananda Jauhar Firdaus</li>
+    <li>Fanny Febryani</li>
+    <li>Muhammad Ikhwan Fathulloh</li>
+    <li>Muhammad Rusydi</li>
+    <li>Rafly Ramadhani Putra</li>
+</ul>
 
-**Here are some ideas to get you started:**
+# Project
+<strong>Use Project</strong>
+<ul>
+    <li>Website : https://github.com/Metric-AI-Team/Website-Ulin-Yuk</li>
+    <li>Recommendation System Destination : https://github.com/Metric-AI-Team/ulinyukrecommendertourism</li>
+    <li>Recommendation System Culinary : https://github.com/Metric-AI-Team/ulinyukrecommenderrestaurant</li>
+    <li>Object Detection Culinary : https://github.com/Metric-AI-Team/Object-Detection-Ulin-Yuk</li>
+</ul>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Feature 
+<strong>Destination</strong>
+<ul>
+    <li>Detail Destination</li>
+    <li>Location Destination with Google Maps API</li>
+    <li>Recommendation Destination</li>
+    <li>Comment your favorite Destination</li>
+</ul>
+
+<strong>Culinary</strong>
+<ul>
+    <li>Detail Culinary</li>
+    <li>Detection Culinary with Teachable Machine</li>
+    <li>Recommendation Culinary</li>
+</ul>
+
+<strong>Chatbot</strong>
+<ul>
+    <li>Destination</li>
+    <li>Culinary</li>
+    <li>Weather Station</li>
+</ul>
+<br>
+
+# Stack
+<ul>
+    <li>Framework Rasa</li>
+    <li>Flask API</li>
+    <li>Framework Laravel</li>
+    <li>Framework Bootstrap 5</li>
+    <li>Database Postgre SQL</li>
+</ul>
+
+# Language
+<ul>
+    <li>Python</li>
+    <li>PHP</li>
+    <li>HTML and CSS</li>
+    <li>Javascript and JSON</li>
+    <li>Postgre SQL</li>
+</ul>
+
+# Deploy
+<p>Deploy Website with Heroku</p>
+<br>
+<p>Link : https://ulinyuk-metricai.herokuapp.com/</p>
+
+# Presentation
+<p>Presentation with Youtube</p>
+<br>
+<p>Link : </p>
