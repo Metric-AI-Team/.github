@@ -8,11 +8,11 @@
 <strong>Metric AI Team</strong>
 <br>
 <ul>
-    <li>Ananda Jauhar Firdaus</li>
-    <li>Fanny Febryani</li>
-    <li>Muhammad Ikhwan Fathulloh</li>
-    <li>Muhammad Rusydi</li>
-    <li>Rafly Ramadhani Putra</li>
+    <li>Ananda Jauhar Firdaus (Frontend Engineer)</li>
+    <li>Fanny Febryani (AI Engineer)</li>
+    <li>Muhammad Ikhwan Fathulloh (Backend Engineer)</li>
+    <li>Muhammad Rusydi (AI Engineer)</li>
+    <li>Rafly Ramadhani Putra (Frontend Engineer)</li>
 </ul>
 
 # Project
