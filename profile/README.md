@@ -1,5 +1,6 @@
 # Project
 <strong>Orbit Future Academy, AI Mastery Program</strong>
+<br>
 <strong>Ulin Yuk</strong>
 
 # Team
@@ -14,7 +15,7 @@
 </ul>
 
 # Project
-<strong>Use Project</strong>
+<strong>Repository Project</strong>
 <ul>
     <li>Website : https://github.com/Metric-AI-Team/Website-Ulin-Yuk</li>
     <li>Recommendation System Destination : https://github.com/Metric-AI-Team/ulinyukrecommendertourism</li>
@@ -49,7 +50,7 @@
 # Stack
 <ul>
     <li>Framework Rasa</li>
-    <li>Flask API</li>
+    <li>Flask</li>
     <li>Framework Laravel</li>
     <li>Framework Bootstrap 5</li>
     <li>Database Postgre SQL</li>
