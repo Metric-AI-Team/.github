@@ -1,4 +1,5 @@
 # Kampus Merdeka 
+https://kampusmerdeka.kemdikbud.go.id/
 ## Orbit Future Academy 
 https://orbitfutureacademy.id/
 ### AI Mastery Program
