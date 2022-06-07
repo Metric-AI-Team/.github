@@ -68,6 +68,13 @@ https://orbitfutureacademy.id/
     <li>Postgre SQL</li>
 </ul>
 
+# Data Project
+<p>Link Planning : https://whimsical.com/orbit-future-academy-26ss1wFxFs9DNCLJ4SHKMr</p>
+<br>
+<p>Link Planning : https://whimsical.com/laporan-final-project-LHEXzqL7fq3rAdZ9XQP2Ec</p>
+<br>
+<p>Link Planning : https://whimsical.com/diagram-sistem-AGoWK1AC6uHYK1KSLrzxYU</p>
+
 # Deploy
 <p>Deploy Website with Heroku</p>
 <br>
