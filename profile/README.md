@@ -20,6 +20,7 @@ https://orbitfutureacademy.id/
 # Project
 <strong>Repository Project</strong>
 <ul>
+    <li>Template : https://github.com/Metric-AI-Team/Template-Ulin-Yuk</li>
     <li>Website : https://github.com/Metric-AI-Team/Website-Ulin-Yuk</li>
     <li>Recommendation System Destination : https://github.com/Metric-AI-Team/ulinyukrecommendertourism</li>
     <li>Recommendation System Culinary : https://github.com/Metric-AI-Team/ulinyukrecommenderrestaurant</li>
