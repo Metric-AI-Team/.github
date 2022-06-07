@@ -71,9 +71,9 @@ https://orbitfutureacademy.id/
 # Data Project
 <p>Link Planning : https://whimsical.com/orbit-future-academy-26ss1wFxFs9DNCLJ4SHKMr</p>
 <br>
-<p>Link Planning : https://whimsical.com/laporan-final-project-LHEXzqL7fq3rAdZ9XQP2Ec</p>
+<p>Link Report : https://whimsical.com/laporan-final-project-LHEXzqL7fq3rAdZ9XQP2Ec</p>
 <br>
-<p>Link Planning : https://whimsical.com/diagram-sistem-AGoWK1AC6uHYK1KSLrzxYU</p>
+<p>Link Design System : https://whimsical.com/diagram-sistem-AGoWK1AC6uHYK1KSLrzxYU</p>
 
 # Deploy
 <p>Deploy Website with Heroku</p>
