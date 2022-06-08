@@ -50,7 +50,6 @@ https://orbitfutureacademy.id/
     <li>Culinary</li>
     <li>Weather Station</li>
 </ul>
-<br>
 
 # Stack
 <ul>
