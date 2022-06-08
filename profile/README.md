@@ -25,7 +25,7 @@ https://orbitfutureacademy.id/
     <li>Recommendation System Destination : https://github.com/Metric-AI-Team/ulinyukrecommendertourism</li>
     <li>Recommendation System Culinary : https://github.com/Metric-AI-Team/ulinyukrecommenderrestaurant</li>
     <li>Object Detection Culinary : https://github.com/Metric-AI-Team/Object-Detection-Ulin-Yuk</li>
-    <li>Chatbot : </li>
+    <li>Chatbot : https://github.com/Metric-AI-Team/metric-bot</li>
 </ul>
 
 # Feature 
