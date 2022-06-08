@@ -4,7 +4,7 @@ https://kampusmerdeka.kemdikbud.go.id/
 https://orbitfutureacademy.id/
 ### AI Mastery Program
 # Project
-<strong>Ulin Yuk</strong>
+<strong>Ulin Yuk (The Bandung City Tourism Information System is website-based with machine learning)</strong>
 
 # Team
 <strong>Metric AI Team</strong>
