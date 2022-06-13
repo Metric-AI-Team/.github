@@ -29,7 +29,7 @@ https://orbitfutureacademy.id/
 </ul>
 
 # Block System
-<img src="ulinyuk.jpg">
+<img src="profile/ulinyuk.jpg">
 
 # Feature 
 <strong>Destination</strong>
