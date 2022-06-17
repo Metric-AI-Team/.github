@@ -84,7 +84,12 @@ https://orbitfutureacademy.id/
 <br>
 <p>Link : https://ulinyuk-metricai.herokuapp.com/</p>
 
-# Presentation
+# Canva
+<p>Presentation with Canva</p>
+<br>
+<p>Link : https://www.canva.com/design/DAFDrbUkBlg/-SYf90XqZ-hc8fP3-6LHXw/edit?utm_content=DAFDrbUkBlg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</p>
+
+# Youtube
 <p>Presentation with Youtube</p>
 <br>
-<p>Link : </p>
+<p>Link : https://www.youtube.com/watch?v=w6EzEIss1k0</p>
